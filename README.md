@@ -9,8 +9,7 @@
 
 ### 🔬 Interesses de Pesquisa
 
-| :brain: Neurodesenvolvimento | :dna: Biologia Molecular |
-| :fish: Estudos do comportamento | :bar_chart: Análise de dados | 
+| :brain: Neurodesenvolvimento | :dna: Biologia Molecular | :fish: Estudos do comportamento | :bar_chart: Análise de dados | 
 
 ---
 
