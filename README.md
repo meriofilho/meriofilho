@@ -1,21 +1,20 @@
 ## Oi, eu sou o Rom√©rio! Prazer ter voc√™ aqui!
 
-Ì∑¨ Biom√©dico (UFDPar)  
-Ì∑† Mestre em Psicobiologia (UFRN)  
-Ì≤ª Doutorando em Bioinform√°tica (UFRN) - [Dalmolin Group](https://dalmolingroup.imd.ufrn.br/)  
-Ì≥¢ Divulgador Cient√≠fico no [Profiss√£o Biotec](https://profissaobiotec.com.br/)  
+üß¨ Biom√©dico (UFDPar)  
+üß† Mestre em Psicobiologia (UFRN)  
+üíª Doutorando em Bioinform√°tica (UFRN) - [Dalmolin Group](https://dalmolingroup.imd.ufrn.br/)  
+üì¢ Divulgador Cient√≠fico no [Profiss√£o Biotec](https://profissaobiotec.com.br/)  
 
 ---
 
-### Ì¥¨ Interesses de Pesquisa
+### üî¨ Interesses de Pesquisa
 
-| Neurodesenvolvimento | Neurotoxicologia | Biologia Molecular |
-|:---:|:---:|:---:|
-| Estudos do comportamento | An√°lise de dados | Estat√≠stica |
+| :brain: Neurodesenvolvimento | :skull_and_crossbones: Neurotoxicologia | :dna: Biologia Molecular |
+| :mouse: Estudos do comportamento | :bar_chart: An√°lise de dados | :chart_with_upwards_trend: Estat√≠stica |
 
 ---
 
-### Ìª†Ô∏è Ferramentas e Tecnologias
+### üõ†Ô∏è Ferramentas e Tecnologias
 
 <p align="left">
   <img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white" style="height: 25px;"/>
