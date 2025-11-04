@@ -10,7 +10,7 @@
 ### 🔬 Interesses de Pesquisa
 
 | :brain: Neurodesenvolvimento | :skull_and_crossbones: Neurotoxicologia | :dna: Biologia Molecular |
-| :mouse: Estudos do comportamento | :bar_chart: Análise de dados | :chart_with_upwards_trend: Estatística |
+| :fish: Estudos do comportamento | :bar_chart: Análise de dados | 
 
 ---
 
