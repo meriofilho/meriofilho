@@ -1,19 +1,19 @@
-## Oi, eu sou o Romério! Prazer ter você aqui!
+## Hi, I'm Romério! It's great to have you here!
 
-🧬 Biomédico (UFDPar)  
-🧠 Mestre em Psicobiologia (UFRN)  
-💻 Doutorando em Bioinformática (UFRN) - [Dalmolin Group](https://dalmolingroup.imd.ufrn.br/)  
-📢 Divulgador Científico no [Profissão Biotec](https://profissaobiotec.com.br/)  
-
----
-
-### 🔬 Interesses de Pesquisa
-
-| :brain: Neurodesenvolvimento | :dna: Biologia Molecular | :fish: Estudos do comportamento | :bar_chart: Análise de dados | 
+🧬 Biomedical Scientist (UFDPar)  
+🧠 M.Sc. in Psychobiology (UFRN)  
+💻 PhD Candidate in Bioinformatics (UFRN) - [Dalmolin Group](https://dalmolingroup.imd.ufrn.br/)  
+📢 Science Communicator at [Profissão Biotec](https://profissaobiotec.com.br/)  
 
 ---
 
-### 🛠️ Ferramentas e Tecnologias
+### 🔬 Research Interests
+
+| :brain: Neurodevelopment | :dna: Molecular Biology | :fish: Behavioral Studies | :bar_chart: Data Analysis | 
+
+---
+
+### 🛠️ Tools and Technologies
 
 <p align="left">
   <img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white" style="height: 25px;"/>
